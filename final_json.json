@@ -1,0 +1,871 @@
+{
+    "01 Keywords": "Python",
+    "02 Total Vacancies": 606,
+    "03 Average Salary": {
+        "01_Количество": {
+            "EUR": 3,
+            "RUR": 140,
+            "USD": 10
+        },
+        "02_Ср_ЗП_net": {
+            "EUR": 5500,
+            "RUR": 208409,
+            "USD": 4300
+        },
+        "03_Ср_ЗП_gross": {
+            "EUR": 3700,
+            "RUR": 218450,
+            "USD": 5345
+        }
+    },
+    "04 Vacancy Key Skills Requirements": [
+        "python",
+        "pandas",
+        "numpy",
+        "ml",
+        "знание архитектур нейронных сетей",
+        "lstm",
+        "rnn",
+        "gru",
+        "mysql",
+        "ооп",
+        "английский язык",
+        "amocrm",
+        "rest",
+        "django framework",
+        "linux",
+        "docker",
+        "git",
+        "unittest/doctest/pytes",
+        "argparse",
+        "sql",
+        "анализ данных",
+        "базы данных",
+        "системный анализ",
+        "dwh",
+        "postgresql",
+        "mercurial",
+        "angular",
+        "css",
+        "rabbitmq",
+        "tensorflow",
+        "kerastase",
+        "pytorch",
+        "scikit-learn",
+        "network development",
+        "django",
+        "flask",
+        "unix",
+        "aws",
+        "scrum",
+        "работа в команде",
+        "redis",
+        "mongodb",
+        "kubernetes",
+        "influxdb",
+        "jenkins",
+        "деловая переписка",
+        "грамотная речь",
+        "административная поддержка руководителя",
+        "делопроизводство",
+        "организаторские навыки",
+        "r",
+        "bash",
+        "apache flex",
+        "apache airflow",
+        "pyspark",
+        "spark",
+        "orm sqlalchemy",
+        "scala",
+        "python3",
+        "fastapi",
+        "unit testing",
+        "react/redux",
+        "backend",
+        "java",
+        "знание английского языка",
+        "удаленная работа",
+        "aiohttp",
+        "asyncio",
+        "c#",
+        "tdd",
+        "api",
+        "solid",
+        "разработка по",
+        "elastic search",
+        "sql server",
+        "scipy",
+        "математическая статистика",
+        "математический анализ",
+        "sqlalchemy",
+        "react.js",
+        "js",
+        "javascript",
+        "знание английского",
+        "умение работать в условиях многозадачности",
+        "теория вероятностей",
+        "работа с большим объемом информации",
+        "ci/cd",
+        "kafka",
+        "atlassian jira",
+        "pytest",
+        "confluence",
+        "drf",
+        "субд postgresql",
+        "gitlab ci",
+        "openshift",
+        "c++",
+        "rest api",
+        "gitlab",
+        "html",
+        "openstack",
+        "cloud",
+        "postgresq",
+        "celery",
+        "pytest,",
+        "jira",
+        "xml",
+        "django rest framework",
+        "orm",
+        "алгоритмы и структуры данных",
+        "http",
+        "teradata",
+        "etl",
+        "ibm unica",
+        "wso2 stream processor",
+        "kibana",
+        "siddhi",
+        "knime",
+        "tcp/ip",
+        "socket",
+        "agile",
+        "big data",
+        "clickhouse",
+        "elasticsearch",
+        "ms sql",
+        "nosql",
+        "websocket",
+        "iohttp",
+        "оптимизация кода",
+        "готовность обучаться",
+        "web3",
+        "алгоритмы",
+        "qt(pyqt)",
+        "библиотеки",
+        "чтение и написание документации",
+        "сетевой стек",
+        "математика",
+        "командная строка linux",
+        "c/c++",
+        "скада системы",
+        "devops",
+        "плис xilinx"
+    ],
+    "05 Requested Key Skills Analysis": [
+        {
+            "01_name": "python",
+            "02_count": 72,
+            "03_percent": "16%"
+        },
+        {
+            "01_name": "pandas",
+            "02_count": 3,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "numpy",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "ml",
+            "02_count": 4,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "знание архитектур нейронных сетей",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "lstm",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "rnn",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "gru",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "mysql",
+            "02_count": 9,
+            "03_percent": "2%"
+        },
+        {
+            "01_name": "ооп",
+            "02_count": 6,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "английский язык",
+            "02_count": 3,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "amocrm",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "rest",
+            "02_count": 4,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "django framework",
+            "02_count": 19,
+            "03_percent": "4%"
+        },
+        {
+            "01_name": "linux",
+            "02_count": 18,
+            "03_percent": "4%"
+        },
+        {
+            "01_name": "docker",
+            "02_count": 16,
+            "03_percent": "3%"
+        },
+        {
+            "01_name": "git",
+            "02_count": 27,
+            "03_percent": "6%"
+        },
+        {
+            "01_name": "unittest/doctest/pytes",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "argparse",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "sql",
+            "02_count": 17,
+            "03_percent": "4%"
+        },
+        {
+            "01_name": "анализ данных",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "базы данных",
+            "02_count": 4,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "системный анализ",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "dwh",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "postgresql",
+            "02_count": 31,
+            "03_percent": "7%"
+        },
+        {
+            "01_name": "mercurial",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "angular",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "css",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "rabbitmq",
+            "02_count": 9,
+            "03_percent": "2%"
+        },
+        {
+            "01_name": "tensorflow",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "kerastase",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "pytorch",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "scikit-learn",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "network development",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "django",
+            "02_count": 16,
+            "03_percent": "3%"
+        },
+        {
+            "01_name": "flask",
+            "02_count": 12,
+            "03_percent": "3%"
+        },
+        {
+            "01_name": "unix",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "aws",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "scrum",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "работа в команде",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "redis",
+            "02_count": 4,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "mongodb",
+            "02_count": 4,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "kubernetes",
+            "02_count": 5,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "influxdb",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "jenkins",
+            "02_count": 3,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "деловая переписка",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "грамотная речь",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "административная поддержка руководителя",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "делопроизводство",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "организаторские навыки",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "r",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "bash",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "apache flex",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "apache airflow",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "pyspark",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "spark",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "orm sqlalchemy",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "scala",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "python3",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "fastapi",
+            "02_count": 10,
+            "03_percent": "2%"
+        },
+        {
+            "01_name": "unit testing",
+            "02_count": 3,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "react/redux",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "backend",
+            "02_count": 6,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "java",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "знание английского языка",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "удаленная работа",
+            "02_count": 3,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "aiohttp",
+            "02_count": 3,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "asyncio",
+            "02_count": 5,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "c#",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "tdd",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "api",
+            "02_count": 4,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "solid",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "разработка по",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "elastic search",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "sql server",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "scipy",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "математическая статистика",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "математический анализ",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "sqlalchemy",
+            "02_count": 6,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "react.js",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "js",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "javascript",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "знание английского",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "умение работать в условиях многозадачности",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "теория вероятностей",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "работа с большим объемом информации",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "ci/cd",
+            "02_count": 5,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "kafka",
+            "02_count": 3,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "atlassian jira",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "pytest",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "confluence",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "drf",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "субд postgresql",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "gitlab ci",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "openshift",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "c++",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "rest api",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "gitlab",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "html",
+            "02_count": 3,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "openstack",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "cloud",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "postgresq",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "celery",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "pytest,",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "jira",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "xml",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "django rest framework",
+            "02_count": 3,
+            "03_percent": "1%"
+        },
+        {
+            "01_name": "orm",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "алгоритмы и структуры данных",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "http",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "teradata",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "etl",
+            "02_count": 2,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "ibm unica",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "wso2 stream processor",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "kibana",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "siddhi",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "knime",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "tcp/ip",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "socket",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "agile",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "big data",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "clickhouse",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "elasticsearch",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "ms sql",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "nosql",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "websocket",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "iohttp",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "оптимизация кода",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "готовность обучаться",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "web3",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "алгоритмы",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "qt(pyqt)",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "библиотеки",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "чтение и написание документации",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "сетевой стек",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "математика",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "командная строка linux",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "c/c++",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "скада системы",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "devops",
+            "02_count": 1,
+            "03_percent": "0%"
+        },
+        {
+            "01_name": "плис xilinx",
+            "02_count": 1,
+            "03_percent": "0%"
+        }
+    ]
+}
